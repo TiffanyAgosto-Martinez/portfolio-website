@@ -29,14 +29,14 @@
 }
 
 #menu-icon {
-    font-size: 56px;
+    font-size: 40px;
     color: #f8b195;
     display: none;
 }
 
 .logo {
     color: white;
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 800;
     cursor: pointer;
     transition: 0.3s ease;
@@ -86,7 +86,7 @@ section {
 }
 
 .home-content h1 {
-    font-size: 64px;
+    font-size: 45px;
     font-weight: 700;
     line-height: 1;
     margin-top: 24px;
@@ -182,6 +182,12 @@ section {
 
 .projects {
     background: linear-gradient(145deg, #f67280, #966480);
+}
+
+.projects h2 {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 80px;
 }
 
 .projects-box {
