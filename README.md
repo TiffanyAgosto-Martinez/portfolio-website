@@ -23,3 +23,6 @@ Access Live Site
    -Every new commit pushed in chosen GitHub branch in repository will automatically update
     to personal Netlify website.
 
+GitHub Repository Link: https://github.com/TiffanyAgosto-Martinez/portfolio-website.git
+
+Netlify Link: https://chipper-mermaid-c9f530.netlify.app
